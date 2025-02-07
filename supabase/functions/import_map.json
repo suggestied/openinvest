@@ -1,0 +1,9 @@
+{
+    "imports": {
+      "oak": "https://deno.land/x/oak@v11.1.0/mod.ts",
+      "std/server": "https://deno.land/std@0.198.0/http/server.ts",
+      "sift": "https://deno.land/x/sift@0.6.0/mod.ts",
+      "@supabase/supabase-js": "https://esm.sh/@supabase/supabase-js@2.32.0",
+      "postgres": "https://deno.land/x/postgres@v0.14.2/mod.ts"
+    }
+  }
