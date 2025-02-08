@@ -1,10 +1,5 @@
 
 
-## Installation
-
-Make sure you have installed and followed the instructions from the
-[Supabase ApparenceKit starter](https://github.com/Apparence-io/ApparenceKit-supabase)
-
 ## Setup your project environment
 
 Open the `lib/environnements.dart` file and set the following variables:
