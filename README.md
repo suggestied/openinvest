@@ -1,9 +1,4 @@
-# ApparenceKit Dashboard
 
-This Dashboard works for the ApparenceKit starter and Supabase. Fully made with
-Flutter and ApparenceKit.
-
-![apparencekit banner](https://github.com/Apparence-io/apparencekit-dashboard/blob/master/docs/heading.png?raw=true)
 
 ## Installation
 
